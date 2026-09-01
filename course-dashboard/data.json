@@ -1,11 +1,11 @@
 {
   "moduleId": 554,
   "moduleTitle": "26-27 Fall I",
-  "updatedAt": "2026-09-02T06:45:52+08:00",
+  "updatedAt": "2026-09-02T07:01:02+08:00",
   "sourceUrl": "https://mis.phbs.pku.edu.cn/student/#/course-select/process?module_id=554&current_stage=1&title=26-27+Fall+I",
   "status": "ok",
   "courseCount": 37,
-  "snapshotCount": 68,
+  "snapshotCount": 69,
   "overCapacityCount": 7,
   "watch": [
     {
@@ -423,6 +423,12 @@
         },
         {
           "t": "2026-09-02T06:45:52+08:00",
+          "enrolled": 41,
+          "capacity": 60,
+          "remaining": 19
+        },
+        {
+          "t": "2026-09-02T07:01:02+08:00",
           "enrolled": 41,
           "capacity": 60,
           "remaining": 19
@@ -847,6 +853,12 @@
           "enrolled": 21,
           "capacity": 60,
           "remaining": 39
+        },
+        {
+          "t": "2026-09-02T07:01:02+08:00",
+          "enrolled": 21,
+          "capacity": 60,
+          "remaining": 39
         }
       ]
     },
@@ -1265,6 +1277,12 @@
         },
         {
           "t": "2026-09-02T06:45:52+08:00",
+          "enrolled": 87,
+          "capacity": 60,
+          "remaining": -27
+        },
+        {
+          "t": "2026-09-02T07:01:02+08:00",
           "enrolled": 87,
           "capacity": 60,
           "remaining": -27
@@ -1689,6 +1707,12 @@
           "enrolled": 48,
           "capacity": 60,
           "remaining": 12
+        },
+        {
+          "t": "2026-09-02T07:01:02+08:00",
+          "enrolled": 48,
+          "capacity": 60,
+          "remaining": 12
         }
       ]
     },
@@ -2107,6 +2131,12 @@
         },
         {
           "t": "2026-09-02T06:45:52+08:00",
+          "enrolled": 28,
+          "capacity": 25,
+          "remaining": -3
+        },
+        {
+          "t": "2026-09-02T07:01:02+08:00",
           "enrolled": 28,
           "capacity": 25,
           "remaining": -3
@@ -2531,6 +2561,12 @@
           "enrolled": 92,
           "capacity": 50,
           "remaining": -42
+        },
+        {
+          "t": "2026-09-02T07:01:02+08:00",
+          "enrolled": 92,
+          "capacity": 50,
+          "remaining": -42
         }
       ]
     },
@@ -2949,6 +2985,12 @@
         },
         {
           "t": "2026-09-02T06:45:52+08:00",
+          "enrolled": 44,
+          "capacity": 60,
+          "remaining": 16
+        },
+        {
+          "t": "2026-09-02T07:01:02+08:00",
           "enrolled": 44,
           "capacity": 60,
           "remaining": 16
@@ -3373,6 +3415,12 @@
           "enrolled": 85,
           "capacity": 50,
           "remaining": -35
+        },
+        {
+          "t": "2026-09-02T07:01:02+08:00",
+          "enrolled": 85,
+          "capacity": 50,
+          "remaining": -35
         }
       ]
     },
@@ -3791,6 +3839,12 @@
         },
         {
           "t": "2026-09-02T06:45:52+08:00",
+          "enrolled": 76,
+          "capacity": 35,
+          "remaining": -41
+        },
+        {
+          "t": "2026-09-02T07:01:02+08:00",
           "enrolled": 76,
           "capacity": 35,
           "remaining": -41
@@ -4215,6 +4269,12 @@
           "enrolled": 56,
           "capacity": 60,
           "remaining": 4
+        },
+        {
+          "t": "2026-09-02T07:01:02+08:00",
+          "enrolled": 56,
+          "capacity": 60,
+          "remaining": 4
         }
       ]
     },
@@ -4636,6 +4696,12 @@
           "enrolled": 68,
           "capacity": 60,
           "remaining": -8
+        },
+        {
+          "t": "2026-09-02T07:01:02+08:00",
+          "enrolled": 68,
+          "capacity": 60,
+          "remaining": -8
         }
       ]
     },
@@ -5054,6 +5120,12 @@
         },
         {
           "t": "2026-09-02T06:45:52+08:00",
+          "enrolled": 100,
+          "capacity": 60,
+          "remaining": -40
+        },
+        {
+          "t": "2026-09-02T07:01:02+08:00",
           "enrolled": 100,
           "capacity": 60,
           "remaining": -40
