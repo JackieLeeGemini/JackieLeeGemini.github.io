@@ -1,0 +1,21 @@
+{
+  "moduleId": 554,
+  "moduleTitle": "26-27 Fall I",
+  "updatedAt": null,
+  "sourceUrl": "https://mis.phbs.pku.edu.cn/student/#/course-select/process?module_id=554&current_stage=1&title=26-27+Fall+I",
+  "status": "awaiting_first_scrape",
+  "courseCount": 0,
+  "snapshotCount": 0,
+  "overCapacityCount": 0,
+  "watch": [
+    { "zh": "公司治理", "en": "Corporate Governance", "credits": null, "hours": null, "capacity": null, "enrolled": null, "remaining": null, "schedule": "", "note": "", "history": [] },
+    { "zh": "公司估值", "en": "Corporate Valuation", "credits": null, "hours": null, "capacity": null, "enrolled": null, "remaining": null, "schedule": "", "note": "", "history": [] },
+    { "zh": "博弈论", "en": "Game Theory", "credits": null, "hours": null, "capacity": null, "enrolled": null, "remaining": null, "schedule": "", "note": "", "history": [] },
+    { "zh": "应用计量经济学", "en": "Applied Econometrics", "credits": null, "hours": null, "capacity": null, "enrolled": null, "remaining": null, "schedule": "", "note": "", "history": [] },
+    { "zh": "研究方法论", "en": "Research Methodology (session E)", "credits": null, "hours": null, "capacity": null, "enrolled": null, "remaining": null, "schedule": "", "note": "", "history": [] },
+    { "zh": "商业道德", "en": "Business Ethics (session 1)", "credits": null, "hours": null, "capacity": null, "enrolled": null, "remaining": null, "schedule": "", "note": "", "history": [] },
+    { "zh": "心理计量方法在管理学中的应用", "en": "Psychometrics Method in Management", "credits": null, "hours": null, "capacity": null, "enrolled": null, "remaining": null, "schedule": "", "note": "", "history": [] },
+    { "zh": "商业道德", "en": "Business Ethics (session 2)", "credits": null, "hours": null, "capacity": null, "enrolled": null, "remaining": null, "schedule": "", "note": "", "history": [] },
+    { "zh": "消费者行为学", "en": "Consumer Behavior", "credits": null, "hours": null, "capacity": null, "enrolled": null, "remaining": null, "schedule": "", "note": "", "history": [] }
+  ]
+}
