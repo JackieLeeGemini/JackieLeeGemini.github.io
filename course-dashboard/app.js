@@ -1,4 +1,4 @@
-const COLORS = ["#ff6b9d", "#9b6dff", "#3ee0c0", "#6aa8ff", "#ffd36e", "#ff7a59", "#c084fc", "#34d399", "#fb7185"];
+const COLORS = ["#ff6b9d", "#9b6dff", "#3ee0c0", "#6aa8ff", "#ffd36e", "#ff7a59", "#c084fc", "#34d399", "#fb7185", "#22d3ee", "#f472b6", "#a3e635"];
 
 const stateEl = document.getElementById("status");
 const stampEl = document.getElementById("stamp");
