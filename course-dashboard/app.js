@@ -40,7 +40,7 @@ function chartLabels(history) {
       hourCycle: "h23",
     }).formatToParts(d);
     const g = Object.fromEntries(p.map((x) => [x.type, x.value]));
-    return `${g.day} ${g.hour}:${g.minute}`;
+    return `${Number(g.month)}/${Number(g.day)} ${g.hour}:${g.minute}`;
   });
 }
 
@@ -128,11 +128,12 @@ function drawChart(id, course, color) {
           data: enrolled.length ? enrolled : [null],
           borderColor: color,
           backgroundColor: color + "33",
-          tension: 0.35,
-          pointRadius: 3,
+          tension: 0.25,
+          pointRadius: history.length > 8 ? 2 : 3,
           pointBackgroundColor: "#fff",
           pointBorderColor: color,
           borderWidth: 3,
+          spanGaps: true,
           fill: true,
         },
         {
@@ -151,7 +152,7 @@ function drawChart(id, course, color) {
       maintainAspectRatio: false,
       plugins: { legend: { display: false } },
       scales: {
-        x: { ticks: { maxRotation: 0, autoSkip: true, maxTicksLimit: 5, color: "#8b7396", font: { size: 10 } }, grid: { display: false } },
+        x: { ticks: { maxRotation: 0, autoSkip: true, maxTicksLimit: 8, color: "#8b7396", font: { size: 10 } }, grid: { display: false } },
         y: { beginAtZero: true, ticks: { color: "#8b7396", font: { size: 10 } }, grid: { color: "rgba(124,92,252,0.08)" } },
       },
     },
