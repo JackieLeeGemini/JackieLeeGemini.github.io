@@ -1,11 +1,11 @@
 {
   "moduleId": 554,
   "moduleTitle": "26-27 Fall I",
-  "updatedAt": "2026-09-01T23:11:01+08:00",
+  "updatedAt": "2026-09-01T23:26:11+08:00",
   "sourceUrl": "https://mis.phbs.pku.edu.cn/student/#/course-select/process?module_id=554&current_stage=1&title=26-27+Fall+I",
   "status": "ok",
   "courseCount": 37,
-  "snapshotCount": 39,
+  "snapshotCount": 40,
   "overCapacityCount": 6,
   "watch": [
     {
@@ -14,8 +14,8 @@
       "credits": 3,
       "hours": 36,
       "capacity": 60,
-      "enrolled": 30,
-      "remaining": 30,
+      "enrolled": 32,
+      "remaining": 28,
       "schedule": "周二、周五 08:30-10:20",
       "note": "FE",
       "history": [
@@ -252,6 +252,12 @@
           "enrolled": 30,
           "capacity": 60,
           "remaining": 30
+        },
+        {
+          "t": "2026-09-01T23:26:11+08:00",
+          "enrolled": 32,
+          "capacity": 60,
+          "remaining": 28
         }
       ]
     },
@@ -499,6 +505,12 @@
           "enrolled": 16,
           "capacity": 60,
           "remaining": 44
+        },
+        {
+          "t": "2026-09-01T23:26:11+08:00",
+          "enrolled": 16,
+          "capacity": 60,
+          "remaining": 44
         }
       ]
     },
@@ -508,8 +520,8 @@
       "credits": 3,
       "hours": 36,
       "capacity": 60,
-      "enrolled": 70,
-      "remaining": -10,
+      "enrolled": 72,
+      "remaining": -12,
       "schedule": "周二、周五 10:30-12:20",
       "note": "EE&ME&FE",
       "history": [
@@ -746,6 +758,12 @@
           "enrolled": 70,
           "capacity": 60,
           "remaining": -10
+        },
+        {
+          "t": "2026-09-01T23:26:11+08:00",
+          "enrolled": 72,
+          "capacity": 60,
+          "remaining": -12
         }
       ]
     },
@@ -755,8 +773,8 @@
       "credits": 3,
       "hours": 36,
       "capacity": 60,
-      "enrolled": 39,
-      "remaining": 21,
+      "enrolled": 41,
+      "remaining": 19,
       "schedule": "周二、周五 13:30-15:20",
       "note": "EE/FE",
       "history": [
@@ -993,6 +1011,12 @@
           "enrolled": 39,
           "capacity": 60,
           "remaining": 21
+        },
+        {
+          "t": "2026-09-01T23:26:11+08:00",
+          "enrolled": 41,
+          "capacity": 60,
+          "remaining": 19
         }
       ]
     },
@@ -1002,8 +1026,8 @@
       "credits": 1.5,
       "hours": 18,
       "capacity": 25,
-      "enrolled": 23,
-      "remaining": 2,
+      "enrolled": 25,
+      "remaining": 0,
       "schedule": "周二 15:30-17:20",
       "note": "25GR",
       "history": [
@@ -1240,6 +1264,12 @@
           "enrolled": 23,
           "capacity": 25,
           "remaining": 2
+        },
+        {
+          "t": "2026-09-01T23:26:11+08:00",
+          "enrolled": 25,
+          "capacity": 25,
+          "remaining": 0
         }
       ]
     },
@@ -1484,6 +1514,12 @@
         },
         {
           "t": "2026-09-01T23:11:01+08:00",
+          "enrolled": 83,
+          "capacity": 50,
+          "remaining": -33
+        },
+        {
+          "t": "2026-09-01T23:26:11+08:00",
           "enrolled": 83,
           "capacity": 50,
           "remaining": -33
@@ -1734,6 +1770,12 @@
           "enrolled": 39,
           "capacity": 60,
           "remaining": 21
+        },
+        {
+          "t": "2026-09-01T23:26:11+08:00",
+          "enrolled": 39,
+          "capacity": 60,
+          "remaining": 21
         }
       ]
     },
@@ -1743,8 +1785,8 @@
       "credits": 1.5,
       "hours": 18,
       "capacity": 50,
-      "enrolled": 75,
-      "remaining": -25,
+      "enrolled": 77,
+      "remaining": -27,
       "schedule": "周四 13:30-15:20",
       "note": "25GR",
       "history": [
@@ -1981,6 +2023,12 @@
           "enrolled": 75,
           "capacity": 50,
           "remaining": -25
+        },
+        {
+          "t": "2026-09-01T23:26:11+08:00",
+          "enrolled": 77,
+          "capacity": 50,
+          "remaining": -27
         }
       ]
     },
@@ -1990,8 +2038,8 @@
       "credits": 3,
       "hours": 36,
       "capacity": 35,
-      "enrolled": 72,
-      "remaining": -37,
+      "enrolled": 73,
+      "remaining": -38,
       "schedule": "周二、周五 13:30-15:20",
       "note": "ME",
       "history": [
@@ -2228,6 +2276,12 @@
           "enrolled": 72,
           "capacity": 35,
           "remaining": -37
+        },
+        {
+          "t": "2026-09-01T23:26:11+08:00",
+          "enrolled": 73,
+          "capacity": 35,
+          "remaining": -38
         }
       ]
     },
@@ -2237,8 +2291,8 @@
       "credits": 3,
       "hours": 36,
       "capacity": 60,
-      "enrolled": 47,
-      "remaining": 13,
+      "enrolled": 49,
+      "remaining": 11,
       "schedule": "周一、周四 10:30-12:20",
       "note": "FE",
       "history": [
@@ -2475,6 +2529,12 @@
           "enrolled": 47,
           "capacity": 60,
           "remaining": 13
+        },
+        {
+          "t": "2026-09-01T23:26:11+08:00",
+          "enrolled": 49,
+          "capacity": 60,
+          "remaining": 11
         }
       ]
     },
@@ -2484,8 +2544,8 @@
       "credits": 3,
       "hours": 36,
       "capacity": 60,
-      "enrolled": 62,
-      "remaining": -2,
+      "enrolled": 63,
+      "remaining": -3,
       "schedule": "周一、周四 13:30-15:20",
       "note": "FE",
       "history": [
@@ -2722,6 +2782,12 @@
           "enrolled": 62,
           "capacity": 60,
           "remaining": -2
+        },
+        {
+          "t": "2026-09-01T23:26:11+08:00",
+          "enrolled": 63,
+          "capacity": 60,
+          "remaining": -3
         }
       ]
     },
@@ -2731,8 +2797,8 @@
       "credits": 3,
       "hours": 36,
       "capacity": 60,
-      "enrolled": 85,
-      "remaining": -25,
+      "enrolled": 87,
+      "remaining": -27,
       "schedule": "周一、周四 08:30-10:20",
       "note": "FE",
       "history": [
@@ -2969,6 +3035,12 @@
           "enrolled": 85,
           "capacity": 60,
           "remaining": -25
+        },
+        {
+          "t": "2026-09-01T23:26:11+08:00",
+          "enrolled": 87,
+          "capacity": 60,
+          "remaining": -27
         }
       ]
     }
