@@ -1,11 +1,11 @@
 {
   "moduleId": 554,
   "moduleTitle": "26-27 Fall I",
-  "updatedAt": "2026-09-02T16:58:57+08:00",
+  "updatedAt": "2026-09-02T17:00:13+08:00",
   "sourceUrl": "https://mis.phbs.pku.edu.cn/student/#/course-select/preview?module_id=554&title=26-27+Fall+I",
   "status": "ok",
   "courseCount": 52,
-  "snapshotCount": 117,
+  "snapshotCount": 118,
   "overCapacityCount": 0,
   "phaseSplitAt": "2026-09-02T15:26:33+08:00",
   "courses": [
@@ -23,6 +23,12 @@
       "history": [
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 69,
+          "capacity": 70,
+          "remaining": 1
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 69,
           "capacity": 70,
           "remaining": 1
@@ -742,6 +748,12 @@
           "enrolled": 69,
           "capacity": 70,
           "remaining": 1
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 69,
+          "capacity": 70,
+          "remaining": 1
         }
       ]
     },
@@ -1455,6 +1467,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 68,
+          "capacity": 68,
+          "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 68,
           "capacity": 68,
           "remaining": 0
@@ -2174,6 +2192,12 @@
           "enrolled": 29,
           "capacity": 29,
           "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 29,
+          "capacity": 29,
+          "remaining": 0
         }
       ]
     },
@@ -2182,8 +2206,8 @@
       "en": "Research Methodology (session F)",
       "credits": 1.5,
       "hours": 18,
-      "capacity": 33,
-      "enrolled": 33,
+      "capacity": 32,
+      "enrolled": 32,
       "remaining": 0,
       "schedule": "周一 15:30-17:20",
       "note": "25GR",
@@ -2193,6 +2217,12 @@
           "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 33,
           "capacity": 33,
+          "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 32,
+          "capacity": 32,
           "remaining": 0
         }
       ]
@@ -2214,6 +2244,12 @@
           "enrolled": 27,
           "capacity": 27,
           "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 27,
+          "capacity": 27,
+          "remaining": 0
         }
       ]
     },
@@ -2231,6 +2267,12 @@
       "history": [
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 13,
+          "capacity": 62,
+          "remaining": 49
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 13,
           "capacity": 62,
           "remaining": 49
@@ -2950,6 +2992,12 @@
           "enrolled": 13,
           "capacity": 62,
           "remaining": 49
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 13,
+          "capacity": 62,
+          "remaining": 49
         }
       ]
     },
@@ -3663,6 +3711,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 7,
+          "capacity": 62,
+          "remaining": 55
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 7,
           "capacity": 62,
           "remaining": 55
@@ -4382,6 +4436,12 @@
           "enrolled": 2,
           "capacity": 48,
           "remaining": 46
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 2,
+          "capacity": 48,
+          "remaining": 46
         }
       ]
     },
@@ -5098,6 +5158,12 @@
           "enrolled": 2,
           "capacity": 48,
           "remaining": 46
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 2,
+          "capacity": 48,
+          "remaining": 46
         }
       ]
     },
@@ -5115,6 +5181,12 @@
       "history": [
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 0,
+          "capacity": 27,
+          "remaining": 27
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 0,
           "capacity": 27,
           "remaining": 27
@@ -5138,6 +5210,12 @@
           "enrolled": 0,
           "capacity": 26,
           "remaining": 26
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 0,
+          "capacity": 26,
+          "remaining": 26
         }
       ]
     },
@@ -5158,6 +5236,12 @@
           "enrolled": 0,
           "capacity": 34,
           "remaining": 34
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 0,
+          "capacity": 34,
+          "remaining": 34
         }
       ]
     },
@@ -5175,6 +5259,12 @@
       "history": [
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 0,
+          "capacity": 34,
+          "remaining": 34
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 0,
           "capacity": 34,
           "remaining": 34
@@ -5894,6 +5984,12 @@
           "enrolled": 23,
           "capacity": 23,
           "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 23,
+          "capacity": 23,
+          "remaining": 0
         }
       ]
     },
@@ -6610,6 +6706,12 @@
           "enrolled": 1,
           "capacity": 19,
           "remaining": 18
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 1,
+          "capacity": 19,
+          "remaining": 18
         }
       ]
     },
@@ -6627,6 +6729,12 @@
       "history": [
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 0,
+          "capacity": 0,
+          "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 0,
           "capacity": 0,
           "remaining": 0
@@ -6650,6 +6758,12 @@
           "enrolled": 0,
           "capacity": 8,
           "remaining": 8
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 0,
+          "capacity": 8,
+          "remaining": 8
         }
       ]
     },
@@ -6667,6 +6781,12 @@
       "history": [
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 0,
+          "capacity": 2,
+          "remaining": 2
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 0,
           "capacity": 2,
           "remaining": 2
@@ -7386,6 +7506,12 @@
           "enrolled": 2,
           "capacity": 2,
           "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 2,
+          "capacity": 2,
+          "remaining": 0
         }
       ]
     },
@@ -7403,6 +7529,12 @@
       "history": [
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 2,
+          "capacity": 12,
+          "remaining": 10
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 2,
           "capacity": 12,
           "remaining": 10
@@ -7426,6 +7558,12 @@
           "enrolled": 2,
           "capacity": 18,
           "remaining": 16
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 2,
+          "capacity": 18,
+          "remaining": 16
         }
       ]
     },
@@ -7446,6 +7584,12 @@
           "enrolled": 0,
           "capacity": 35,
           "remaining": 35
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 0,
+          "capacity": 35,
+          "remaining": 35
         }
       ]
     },
@@ -7463,6 +7607,12 @@
       "history": [
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 1,
+          "capacity": 35,
+          "remaining": 34
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 1,
           "capacity": 35,
           "remaining": 34
@@ -8182,6 +8332,12 @@
           "enrolled": 0,
           "capacity": 0,
           "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 0,
+          "capacity": 0,
+          "remaining": 0
         }
       ]
     },
@@ -8895,6 +9051,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 6,
+          "capacity": 18,
+          "remaining": 12
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 6,
           "capacity": 18,
           "remaining": 12
@@ -9614,6 +9776,12 @@
           "enrolled": 0,
           "capacity": 0,
           "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 0,
+          "capacity": 0,
+          "remaining": 0
         }
       ]
     },
@@ -10327,6 +10495,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 1,
+          "capacity": 3,
+          "remaining": 2
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 1,
           "capacity": 3,
           "remaining": 2
@@ -11046,6 +11220,12 @@
           "enrolled": 2,
           "capacity": 2,
           "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 2,
+          "capacity": 2,
+          "remaining": 0
         }
       ]
     },
@@ -11759,6 +11939,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 4,
+          "capacity": 4,
+          "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 4,
           "capacity": 4,
           "remaining": 0
@@ -12478,6 +12664,12 @@
           "enrolled": 6,
           "capacity": 12,
           "remaining": 6
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 6,
+          "capacity": 12,
+          "remaining": 6
         }
       ]
     },
@@ -13191,6 +13383,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 4,
+          "capacity": 10,
+          "remaining": 6
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 4,
           "capacity": 10,
           "remaining": 6
@@ -13910,6 +14108,12 @@
           "enrolled": 3,
           "capacity": 9,
           "remaining": 6
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 3,
+          "capacity": 9,
+          "remaining": 6
         }
       ]
     },
@@ -14623,6 +14827,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 66,
+          "capacity": 79,
+          "remaining": 13
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 66,
           "capacity": 79,
           "remaining": 13
@@ -15342,6 +15552,12 @@
           "enrolled": 61,
           "capacity": 62,
           "remaining": 1
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 61,
+          "capacity": 62,
+          "remaining": 1
         }
       ]
     },
@@ -16055,6 +16271,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 63,
+          "capacity": 63,
+          "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 63,
           "capacity": 63,
           "remaining": 0
@@ -16774,6 +16996,12 @@
           "enrolled": 66,
           "capacity": 66,
           "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 66,
+          "capacity": 66,
+          "remaining": 0
         }
       ]
     },
@@ -17487,6 +17715,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 31,
+          "capacity": 66,
+          "remaining": 35
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 31,
           "capacity": 66,
           "remaining": 35
@@ -18206,6 +18440,12 @@
           "enrolled": 19,
           "capacity": 66,
           "remaining": 47
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 19,
+          "capacity": 66,
+          "remaining": 47
         }
       ]
     },
@@ -18919,6 +19159,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 61,
+          "capacity": 62,
+          "remaining": 1
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 61,
           "capacity": 62,
           "remaining": 1
@@ -19638,6 +19884,12 @@
           "enrolled": 55,
           "capacity": 72,
           "remaining": 17
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 55,
+          "capacity": 72,
+          "remaining": 17
         }
       ]
     },
@@ -20351,6 +20603,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 69,
+          "capacity": 69,
+          "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 69,
           "capacity": 69,
           "remaining": 0
@@ -21070,6 +21328,12 @@
           "enrolled": 62,
           "capacity": 62,
           "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 62,
+          "capacity": 62,
+          "remaining": 0
         }
       ]
     },
@@ -21783,6 +22047,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 62,
+          "capacity": 62,
+          "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 62,
           "capacity": 62,
           "remaining": 0
@@ -22502,6 +22772,12 @@
           "enrolled": 28,
           "capacity": 64,
           "remaining": 36
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 28,
+          "capacity": 64,
+          "remaining": 36
         }
       ]
     },
@@ -23095,6 +23371,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 40,
+          "capacity": 40,
+          "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 40,
           "capacity": 40,
           "remaining": 0
@@ -23814,6 +24096,12 @@
           "enrolled": 43,
           "capacity": 43,
           "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 43,
+          "capacity": 43,
+          "remaining": 0
         }
       ]
     },
@@ -24527,6 +24815,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 34,
+          "capacity": 35,
+          "remaining": 1
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 34,
           "capacity": 35,
           "remaining": 1
@@ -25246,6 +25540,12 @@
           "enrolled": 38,
           "capacity": 46,
           "remaining": 8
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 38,
+          "capacity": 46,
+          "remaining": 8
         }
       ]
     },
@@ -25962,6 +26262,12 @@
           "enrolled": 33,
           "capacity": 43,
           "remaining": 10
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 33,
+          "capacity": 43,
+          "remaining": 10
         }
       ]
     },
@@ -26675,6 +26981,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 35,
+          "capacity": 43,
+          "remaining": 8
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 35,
           "capacity": 43,
           "remaining": 8
@@ -27396,6 +27708,12 @@
           "enrolled": 55,
           "capacity": 72,
           "remaining": 17
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 55,
+          "capacity": 72,
+          "remaining": 17
         }
       ]
     },
@@ -28109,6 +28427,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 28,
+          "capacity": 64,
+          "remaining": 36
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 28,
           "capacity": 64,
           "remaining": 36
@@ -28828,6 +29152,12 @@
           "enrolled": 63,
           "capacity": 63,
           "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 63,
+          "capacity": 63,
+          "remaining": 0
         }
       ]
     },
@@ -29541,6 +29871,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 66,
+          "capacity": 66,
+          "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 66,
           "capacity": 66,
           "remaining": 0
@@ -30260,6 +30596,12 @@
           "enrolled": 29,
           "capacity": 29,
           "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 29,
+          "capacity": 29,
+          "remaining": 0
         }
       ]
     },
@@ -30973,6 +31315,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 69,
+          "capacity": 70,
+          "remaining": 1
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 69,
           "capacity": 70,
           "remaining": 1
@@ -31692,6 +32040,12 @@
           "enrolled": 66,
           "capacity": 79,
           "remaining": 13
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 66,
+          "capacity": 79,
+          "remaining": 13
         }
       ]
     },
@@ -32405,6 +32759,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 68,
+          "capacity": 68,
+          "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 68,
           "capacity": 68,
           "remaining": 0
@@ -33124,6 +33484,12 @@
           "enrolled": 43,
           "capacity": 43,
           "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 43,
+          "capacity": 43,
+          "remaining": 0
         }
       ]
     },
@@ -33837,6 +34203,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 62,
+          "capacity": 62,
+          "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 62,
           "capacity": 62,
           "remaining": 0
@@ -34556,6 +34928,12 @@
           "enrolled": 62,
           "capacity": 62,
           "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
+          "enrolled": 62,
+          "capacity": 62,
+          "remaining": 0
         }
       ]
     },
@@ -35269,6 +35647,12 @@
         },
         {
           "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 69,
+          "capacity": 69,
+          "remaining": 0
+        },
+        {
+          "t": "2026-09-02T17:00:13+08:00",
           "enrolled": 69,
           "capacity": 69,
           "remaining": 0
