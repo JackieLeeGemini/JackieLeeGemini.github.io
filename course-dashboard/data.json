@@ -1,51 +1,31 @@
 {
   "moduleId": 554,
   "moduleTitle": "26-27 Fall I",
-  "updatedAt": "2026-09-02T16:56:54+08:00",
+  "updatedAt": "2026-09-02T16:58:57+08:00",
   "sourceUrl": "https://mis.phbs.pku.edu.cn/student/#/course-select/preview?module_id=554&title=26-27+Fall+I",
   "status": "ok",
-  "courseCount": 59,
+  "courseCount": 52,
   "snapshotCount": 117,
-  "overCapacityCount": 25,
+  "overCapacityCount": 0,
   "phaseSplitAt": "2026-09-02T15:26:33+08:00",
   "courses": [
-    {
-      "zh": "经济学与中国改革发展",
-      "en": "Economic Theory and China`s Reform and Development",
-      "credits": 4,
-      "hours": 48,
-      "capacity": null,
-      "enrolled": null,
-      "remaining": null,
-      "schedule": "周二 19:30-22:00",
-      "note": "26GE",
-      "watched": false,
-      "history": [
-        {
-          "t": "2026-09-02T16:56:54+08:00",
-          "enrolled": null,
-          "capacity": null,
-          "remaining": null
-        }
-      ]
-    },
     {
       "zh": "社会主义经济理论与中国实践",
       "en": "Economic Theory of Socialism and Its Practice in China",
       "credits": 1,
       "hours": 12,
-      "capacity": 1,
-      "enrolled": 68,
-      "remaining": -67,
+      "capacity": 70,
+      "enrolled": 69,
+      "remaining": 1,
       "schedule": "周六、周日 09:00-12:00; 周六 14:00-17:00",
       "note": "26GR",
       "watched": false,
       "history": [
         {
-          "t": "2026-09-02T16:56:54+08:00",
-          "enrolled": 68,
-          "capacity": 1,
-          "remaining": -67
+          "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 69,
+          "capacity": 70,
+          "remaining": 1
         }
       ]
     },
@@ -54,9 +34,9 @@
       "en": "Business Ethics (session 1)",
       "credits": 1.5,
       "hours": 18,
-      "capacity": 1,
-      "enrolled": 68,
-      "remaining": -67,
+      "capacity": 70,
+      "enrolled": 69,
+      "remaining": 1,
       "schedule": "周二 15:30-17:20",
       "note": "25GR",
       "watched": true,
@@ -758,10 +738,10 @@
           "remaining": -15
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
-          "enrolled": 68,
-          "capacity": 1,
-          "remaining": -67
+          "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 69,
+          "capacity": 70,
+          "remaining": 1
         }
       ]
     },
@@ -770,9 +750,9 @@
       "en": "Business Ethics (session 2)",
       "credits": 1.5,
       "hours": 18,
-      "capacity": 0,
+      "capacity": 68,
       "enrolled": 68,
-      "remaining": -68,
+      "remaining": 0,
       "schedule": "周四 13:30-15:20",
       "note": "25GR",
       "watched": true,
@@ -1474,10 +1454,10 @@
           "remaining": -15
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 68,
-          "capacity": 0,
-          "remaining": -68
+          "capacity": 68,
+          "remaining": 0
         }
       ]
     },
@@ -1486,9 +1466,9 @@
       "en": "Research Methodology (session E)",
       "credits": 1.5,
       "hours": 18,
-      "capacity": 0,
+      "capacity": 29,
       "enrolled": 29,
-      "remaining": -29,
+      "remaining": 0,
       "schedule": "周二 15:30-17:20",
       "note": "25GR",
       "watched": true,
@@ -2190,10 +2170,10 @@
           "remaining": -3
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 29,
-          "capacity": 0,
-          "remaining": -29
+          "capacity": 29,
+          "remaining": 0
         }
       ]
     },
@@ -2202,18 +2182,18 @@
       "en": "Research Methodology (session F)",
       "credits": 1.5,
       "hours": 18,
-      "capacity": 0,
+      "capacity": 33,
       "enrolled": 33,
-      "remaining": -33,
+      "remaining": 0,
       "schedule": "周一 15:30-17:20",
       "note": "25GR",
       "watched": false,
       "history": [
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 33,
-          "capacity": 0,
-          "remaining": -33
+          "capacity": 33,
+          "remaining": 0
         }
       ]
     },
@@ -2222,138 +2202,18 @@
       "en": "Research Methodology(session M)",
       "credits": 1.5,
       "hours": 18,
-      "capacity": 0,
+      "capacity": 27,
       "enrolled": 27,
-      "remaining": -27,
+      "remaining": 0,
       "schedule": "周二 08:30-10:20",
       "note": "25GR",
       "watched": false,
       "history": [
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 27,
-          "capacity": 0,
-          "remaining": -27
-        }
-      ]
-    },
-    {
-      "zh": "商务数学(Math)",
-      "en": "Business Math(Math session M1)",
-      "credits": 1.5,
-      "hours": 18,
-      "capacity": null,
-      "enrolled": null,
-      "remaining": null,
-      "schedule": "周二 13:30-15:20",
-      "note": "26GR",
-      "watched": false,
-      "history": [
-        {
-          "t": "2026-09-02T16:56:54+08:00",
-          "enrolled": null,
-          "capacity": null,
-          "remaining": null
-        }
-      ]
-    },
-    {
-      "zh": "商务数学(Math)",
-      "en": "Business Math(Math session M2)",
-      "credits": 1.5,
-      "hours": 18,
-      "capacity": null,
-      "enrolled": null,
-      "remaining": null,
-      "schedule": "周四 15:30-17:20",
-      "note": "26GR",
-      "watched": false,
-      "history": [
-        {
-          "t": "2026-09-02T16:56:54+08:00",
-          "enrolled": null,
-          "capacity": null,
-          "remaining": null
-        }
-      ]
-    },
-    {
-      "zh": "商务数学(Math)",
-      "en": "Business Math (Math session E&F)",
-      "credits": 1.5,
-      "hours": 18,
-      "capacity": null,
-      "enrolled": null,
-      "remaining": null,
-      "schedule": "周五 15:30-17:20",
-      "note": "26GR",
-      "watched": false,
-      "history": [
-        {
-          "t": "2026-09-02T16:56:54+08:00",
-          "enrolled": null,
-          "capacity": null,
-          "remaining": null
-        }
-      ]
-    },
-    {
-      "zh": "商务数学(Statistics)",
-      "en": "Business Math(Statistics session1)",
-      "credits": 1.5,
-      "hours": 18,
-      "capacity": null,
-      "enrolled": null,
-      "remaining": null,
-      "schedule": "周四 08:30-10:20",
-      "note": "26GR",
-      "watched": false,
-      "history": [
-        {
-          "t": "2026-09-02T16:56:54+08:00",
-          "enrolled": null,
-          "capacity": null,
-          "remaining": null
-        }
-      ]
-    },
-    {
-      "zh": "商务数学(Statistics)",
-      "en": "Business Math(Statistics session2)",
-      "credits": 1.5,
-      "hours": 18,
-      "capacity": null,
-      "enrolled": null,
-      "remaining": null,
-      "schedule": "周四 15:30-17:20",
-      "note": "26GR",
-      "watched": false,
-      "history": [
-        {
-          "t": "2026-09-02T16:56:54+08:00",
-          "enrolled": null,
-          "capacity": null,
-          "remaining": null
-        }
-      ]
-    },
-    {
-      "zh": "商务数学(Statistics)",
-      "en": "Business Math(Statistics session3)",
-      "credits": 1.5,
-      "hours": 18,
-      "capacity": null,
-      "enrolled": null,
-      "remaining": null,
-      "schedule": "周二 08:30-10:20",
-      "note": "26GR",
-      "watched": false,
-      "history": [
-        {
-          "t": "2026-09-02T16:56:54+08:00",
-          "enrolled": null,
-          "capacity": null,
-          "remaining": null
+          "capacity": 27,
+          "remaining": 0
         }
       ]
     },
@@ -2362,18 +2222,18 @@
       "en": "Research Methodology(PhD, 1st-2nd module)",
       "credits": 1.5,
       "hours": 18,
-      "capacity": 49,
+      "capacity": 62,
       "enrolled": 13,
-      "remaining": 36,
+      "remaining": 49,
       "schedule": "周二 10:30-12:20",
       "note": "25PhD",
       "watched": false,
       "history": [
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 13,
-          "capacity": 49,
-          "remaining": 36
+          "capacity": 62,
+          "remaining": 49
         }
       ]
     },
@@ -2382,9 +2242,9 @@
       "en": "Financial Economics(PhD)",
       "credits": 3,
       "hours": 36,
-      "capacity": 49,
+      "capacity": 62,
       "enrolled": 13,
-      "remaining": 36,
+      "remaining": 49,
       "schedule": "周二、周五 15:30-17:20",
       "note": "25PhD&EE",
       "watched": false,
@@ -3086,10 +2946,10 @@
           "remaining": 47
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 13,
-          "capacity": 49,
-          "remaining": 36
+          "capacity": 62,
+          "remaining": 49
         }
       ]
     },
@@ -3098,9 +2958,9 @@
       "en": "Dynamic Programming(PhD)",
       "credits": 3,
       "hours": 36,
-      "capacity": 55,
+      "capacity": 62,
       "enrolled": 7,
-      "remaining": 48,
+      "remaining": 55,
       "schedule": "周一、周四 08:30-10:20",
       "note": "26PhD&EE",
       "watched": false,
@@ -3802,10 +3662,10 @@
           "remaining": 53
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 7,
-          "capacity": 55,
-          "remaining": 48
+          "capacity": 62,
+          "remaining": 55
         }
       ]
     },
@@ -3814,9 +3674,9 @@
       "en": "Math I(PhD)",
       "credits": 3,
       "hours": 36,
-      "capacity": 46,
+      "capacity": 48,
       "enrolled": 2,
-      "remaining": 44,
+      "remaining": 46,
       "schedule": "周二、周五 08:30-10:20",
       "note": "26PhD",
       "watched": false,
@@ -4518,10 +4378,10 @@
           "remaining": 46
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 2,
-          "capacity": 46,
-          "remaining": 44
+          "capacity": 48,
+          "remaining": 46
         }
       ]
     },
@@ -4530,9 +4390,9 @@
       "en": "Statistics(PhD)",
       "credits": 3,
       "hours": 36,
-      "capacity": 46,
+      "capacity": 48,
       "enrolled": 2,
-      "remaining": 44,
+      "remaining": 46,
       "schedule": "周一、周四 10:30-12:20",
       "note": "26PhD",
       "watched": false,
@@ -5234,10 +5094,10 @@
           "remaining": 46
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 2,
-          "capacity": 46,
-          "remaining": 44
+          "capacity": 48,
+          "remaining": 46
         }
       ]
     },
@@ -5254,7 +5114,7 @@
       "watched": false,
       "history": [
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 0,
           "capacity": 27,
           "remaining": 27
@@ -5274,7 +5134,7 @@
       "watched": false,
       "history": [
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 0,
           "capacity": 26,
           "remaining": 26
@@ -5294,7 +5154,7 @@
       "watched": false,
       "history": [
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 0,
           "capacity": 34,
           "remaining": 34
@@ -5314,7 +5174,7 @@
       "watched": false,
       "history": [
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 0,
           "capacity": 34,
           "remaining": 34
@@ -5326,9 +5186,9 @@
       "en": "Intro to Fintech(session F1T)",
       "credits": 3,
       "hours": 36,
-      "capacity": 0,
+      "capacity": 23,
       "enrolled": 23,
-      "remaining": -23,
+      "remaining": 0,
       "schedule": "周一、周四 15:30-17:20",
       "note": "26F1TR&UG",
       "watched": false,
@@ -6030,10 +5890,10 @@
           "remaining": 0
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 23,
-          "capacity": 0,
-          "remaining": -23
+          "capacity": 23,
+          "remaining": 0
         }
       ]
     },
@@ -6042,9 +5902,9 @@
       "en": "Financial Accounting(session F1T)",
       "credits": 3,
       "hours": 36,
-      "capacity": 18,
+      "capacity": 19,
       "enrolled": 1,
-      "remaining": 17,
+      "remaining": 18,
       "schedule": "周二、周五 15:30-17:20",
       "note": "26F1TR",
       "watched": false,
@@ -6746,10 +6606,10 @@
           "remaining": 18
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 1,
-          "capacity": 18,
-          "remaining": 17
+          "capacity": 19,
+          "remaining": 18
         }
       ]
     },
@@ -6766,7 +6626,7 @@
       "watched": false,
       "history": [
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 0,
           "capacity": 0,
           "remaining": 0
@@ -6786,7 +6646,7 @@
       "watched": false,
       "history": [
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 0,
           "capacity": 8,
           "remaining": 8
@@ -6806,7 +6666,7 @@
       "watched": false,
       "history": [
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 0,
           "capacity": 2,
           "remaining": 2
@@ -6818,9 +6678,9 @@
       "en": "Financial Accounting(session F2)",
       "credits": 3,
       "hours": 36,
-      "capacity": 0,
+      "capacity": 2,
       "enrolled": 2,
-      "remaining": -2,
+      "remaining": 0,
       "schedule": "周二、周五 10:30-12:20",
       "note": "26F2R",
       "watched": false,
@@ -7522,10 +7382,10 @@
           "remaining": 0
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 2,
-          "capacity": 0,
-          "remaining": -2
+          "capacity": 2,
+          "remaining": 0
         }
       ]
     },
@@ -7534,18 +7394,18 @@
       "en": "Macroeconomics(Intl Fin)",
       "credits": 3,
       "hours": 36,
-      "capacity": 10,
+      "capacity": 12,
       "enrolled": 2,
-      "remaining": 8,
+      "remaining": 10,
       "schedule": "周一、周四 13:30-15:20",
       "note": "26 Intl Fin&UG",
       "watched": false,
       "history": [
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 2,
-          "capacity": 10,
-          "remaining": 8
+          "capacity": 12,
+          "remaining": 10
         }
       ]
     },
@@ -7554,18 +7414,18 @@
       "en": "Microeconomics(Intl Fin)",
       "credits": 3,
       "hours": 36,
-      "capacity": 16,
+      "capacity": 18,
       "enrolled": 2,
-      "remaining": 14,
+      "remaining": 16,
       "schedule": "周二、周五 13:30-15:20",
       "note": "26 Intl Fin&UG",
       "watched": false,
       "history": [
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 2,
-          "capacity": 16,
-          "remaining": 14
+          "capacity": 18,
+          "remaining": 16
         }
       ]
     },
@@ -7582,7 +7442,7 @@
       "watched": false,
       "history": [
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 0,
           "capacity": 35,
           "remaining": 35
@@ -7594,18 +7454,18 @@
       "en": "Macroeconomics（session F5）",
       "credits": 3,
       "hours": 36,
-      "capacity": 34,
+      "capacity": 35,
       "enrolled": 1,
-      "remaining": 33,
+      "remaining": 34,
       "schedule": "周一、周四 10:30-12:20",
       "note": "26F5R",
       "watched": false,
       "history": [
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 1,
-          "capacity": 34,
-          "remaining": 33
+          "capacity": 35,
+          "remaining": 34
         }
       ]
     },
@@ -8318,7 +8178,7 @@
           "remaining": 0
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 0,
           "capacity": 0,
           "remaining": 0
@@ -8330,9 +8190,9 @@
       "en": "Operation Management(session 2)",
       "credits": 3,
       "hours": 36,
-      "capacity": 12,
+      "capacity": 18,
       "enrolled": 6,
-      "remaining": 6,
+      "remaining": 12,
       "schedule": "周一、周四 15:30-17:20",
       "note": "26MR/Intl",
       "watched": false,
@@ -9034,10 +8894,10 @@
           "remaining": 11
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 6,
-          "capacity": 12,
-          "remaining": 6
+          "capacity": 18,
+          "remaining": 12
         }
       ]
     },
@@ -9750,7 +9610,7 @@
           "remaining": 0
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 0,
           "capacity": 0,
           "remaining": 0
@@ -9762,9 +9622,9 @@
       "en": "Marketing Management(session 1)",
       "credits": 3,
       "hours": 36,
-      "capacity": 2,
+      "capacity": 3,
       "enrolled": 1,
-      "remaining": 1,
+      "remaining": 2,
       "schedule": "周二、周五 10:30-12:20",
       "note": "26MR/Intl",
       "watched": false,
@@ -10466,10 +10326,10 @@
           "remaining": 2
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 1,
-          "capacity": 2,
-          "remaining": 1
+          "capacity": 3,
+          "remaining": 2
         }
       ]
     },
@@ -10478,9 +10338,9 @@
       "en": "Marketing Management(session 2)",
       "credits": 3,
       "hours": 36,
-      "capacity": 0,
+      "capacity": 2,
       "enrolled": 2,
-      "remaining": -2,
+      "remaining": 0,
       "schedule": "周一、周四 08:30-10:20",
       "note": "26MR/Intl",
       "watched": false,
@@ -11182,10 +11042,10 @@
           "remaining": 0
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 2,
-          "capacity": 0,
-          "remaining": -2
+          "capacity": 2,
+          "remaining": 0
         }
       ]
     },
@@ -11194,9 +11054,9 @@
       "en": "Marketing Management(session 3)",
       "credits": 3,
       "hours": 36,
-      "capacity": 0,
+      "capacity": 4,
       "enrolled": 4,
-      "remaining": -4,
+      "remaining": 0,
       "schedule": "周一、周四 13:30-15:20",
       "note": "26MR/Intl",
       "watched": false,
@@ -11898,10 +11758,10 @@
           "remaining": 0
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 4,
-          "capacity": 0,
-          "remaining": -4
+          "capacity": 4,
+          "remaining": 0
         }
       ]
     },
@@ -11910,9 +11770,9 @@
       "en": "Social Research Methods",
       "credits": 3,
       "hours": 36,
-      "capacity": 6,
+      "capacity": 12,
       "enrolled": 6,
-      "remaining": 0,
+      "remaining": 6,
       "schedule": "周一、周四 08:30-10:20",
       "note": "26JR",
       "watched": false,
@@ -12614,10 +12474,10 @@
           "remaining": 3
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 6,
-          "capacity": 6,
-          "remaining": 0
+          "capacity": 12,
+          "remaining": 6
         }
       ]
     },
@@ -12626,9 +12486,9 @@
       "en": "New Media and Society",
       "credits": 3,
       "hours": 36,
-      "capacity": 6,
+      "capacity": 10,
       "enrolled": 4,
-      "remaining": 2,
+      "remaining": 6,
       "schedule": "周一、周四 13:30-15:20",
       "note": "26JR&UG",
       "watched": false,
@@ -13330,10 +13190,10 @@
           "remaining": 4
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 4,
-          "capacity": 6,
-          "remaining": 2
+          "capacity": 10,
+          "remaining": 6
         }
       ]
     },
@@ -13342,9 +13202,9 @@
       "en": "Advanced Financial News Reporting",
       "credits": 3,
       "hours": 36,
-      "capacity": 6,
+      "capacity": 9,
       "enrolled": 3,
-      "remaining": 3,
+      "remaining": 6,
       "schedule": "周二、周五 10:30-12:20",
       "note": "26JR",
       "watched": false,
@@ -14046,10 +13906,10 @@
           "remaining": 6
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 3,
-          "capacity": 6,
-          "remaining": 3
+          "capacity": 9,
+          "remaining": 6
         }
       ]
     },
@@ -14058,9 +13918,9 @@
       "en": "Psychometrics Method in Management",
       "credits": 3,
       "hours": 36,
-      "capacity": 13,
+      "capacity": 79,
       "enrolled": 66,
-      "remaining": -53,
+      "remaining": 13,
       "schedule": "周二、周五 10:30-12:20",
       "note": "EE&ME&FE",
       "watched": true,
@@ -14762,10 +14622,10 @@
           "remaining": -4
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 66,
-          "capacity": 13,
-          "remaining": -53
+          "capacity": 79,
+          "remaining": 13
         }
       ]
     },
@@ -14774,9 +14634,9 @@
       "en": "Platform Economics and Online Marketplaces",
       "credits": 3,
       "hours": 36,
-      "capacity": 1,
+      "capacity": 62,
       "enrolled": 61,
-      "remaining": -60,
+      "remaining": 1,
       "schedule": "周一、周四 15:30-17:20",
       "note": "EE&ME&FE",
       "watched": false,
@@ -15478,10 +15338,10 @@
           "remaining": -1
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 61,
-          "capacity": 1,
-          "remaining": -60
+          "capacity": 62,
+          "remaining": 1
         }
       ]
     },
@@ -15490,9 +15350,9 @@
       "en": "Game Theory",
       "credits": 3,
       "hours": 36,
-      "capacity": 0,
+      "capacity": 63,
       "enrolled": 63,
-      "remaining": -63,
+      "remaining": 0,
       "schedule": "周二、周五 10:30-12:20",
       "note": "EE&ME&FE",
       "watched": true,
@@ -16194,10 +16054,10 @@
           "remaining": -4
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 63,
-          "capacity": 0,
-          "remaining": -63
+          "capacity": 63,
+          "remaining": 0
         }
       ]
     },
@@ -16206,9 +16066,9 @@
       "en": "Applied Econometrics",
       "credits": 3,
       "hours": 36,
-      "capacity": 0,
+      "capacity": 66,
       "enrolled": 66,
-      "remaining": -66,
+      "remaining": 0,
       "schedule": "周二、周五 13:30-15:20",
       "note": "EE/FE",
       "watched": true,
@@ -16910,10 +16770,10 @@
           "remaining": -5
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 66,
-          "capacity": 0,
-          "remaining": -66
+          "capacity": 66,
+          "remaining": 0
         }
       ]
     },
@@ -16922,9 +16782,9 @@
       "en": "Macroeconomics with Financial Friction",
       "credits": 3,
       "hours": 36,
-      "capacity": 35,
+      "capacity": 66,
       "enrolled": 31,
-      "remaining": 4,
+      "remaining": 35,
       "schedule": "周一、周四 10:30-12:20",
       "note": "EE/FE",
       "watched": false,
@@ -17626,10 +17486,10 @@
           "remaining": 34
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 31,
-          "capacity": 35,
-          "remaining": 4
+          "capacity": 66,
+          "remaining": 35
         }
       ]
     },
@@ -17638,9 +17498,9 @@
       "en": "Machine Learning in Asset Pricing",
       "credits": 3,
       "hours": 36,
-      "capacity": 47,
+      "capacity": 66,
       "enrolled": 19,
-      "remaining": 28,
+      "remaining": 47,
       "schedule": "周一、周四 15:30-17:20",
       "note": "EE/FE",
       "watched": false,
@@ -18342,10 +18202,10 @@
           "remaining": 41
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 19,
-          "capacity": 47,
-          "remaining": 28
+          "capacity": 66,
+          "remaining": 47
         }
       ]
     },
@@ -18354,9 +18214,9 @@
       "en": "Marketing Research",
       "credits": 3,
       "hours": 36,
-      "capacity": 1,
+      "capacity": 62,
       "enrolled": 61,
-      "remaining": -60,
+      "remaining": 1,
       "schedule": "周一、周四 13:30-15:20",
       "note": "ME&BA",
       "watched": false,
@@ -19058,10 +18918,10 @@
           "remaining": 0
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 61,
-          "capacity": 1,
-          "remaining": -60
+          "capacity": 62,
+          "remaining": 1
         }
       ]
     },
@@ -19070,9 +18930,9 @@
       "en": "Corporate Governance",
       "credits": 3,
       "hours": 36,
-      "capacity": 17,
+      "capacity": 72,
       "enrolled": 55,
-      "remaining": -38,
+      "remaining": 17,
       "schedule": "周二、周五 08:30-10:20",
       "note": "FE",
       "watched": true,
@@ -19774,10 +19634,10 @@
           "remaining": 7
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 55,
-          "capacity": 17,
-          "remaining": -38
+          "capacity": 72,
+          "remaining": 17
         }
       ]
     },
@@ -19786,9 +19646,9 @@
       "en": "Alternative Investments",
       "credits": 3,
       "hours": 36,
-      "capacity": 0,
+      "capacity": 69,
       "enrolled": 69,
-      "remaining": -69,
+      "remaining": 0,
       "schedule": "周一、周四 08:30-10:20",
       "note": "FE",
       "watched": true,
@@ -20490,10 +20350,10 @@
           "remaining": -6
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 69,
-          "capacity": 0,
-          "remaining": -69
+          "capacity": 69,
+          "remaining": 0
         }
       ]
     },
@@ -20502,9 +20362,9 @@
       "en": "ESG Finance",
       "credits": 3,
       "hours": 36,
-      "capacity": 0,
+      "capacity": 62,
       "enrolled": 62,
-      "remaining": -62,
+      "remaining": 0,
       "schedule": "周一、周四 10:30-12:20",
       "note": "FE",
       "watched": true,
@@ -21206,10 +21066,10 @@
           "remaining": -2
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 62,
-          "capacity": 0,
-          "remaining": -62
+          "capacity": 62,
+          "remaining": 0
         }
       ]
     },
@@ -21218,9 +21078,9 @@
       "en": "Venture Capital",
       "credits": 3,
       "hours": 36,
-      "capacity": 0,
+      "capacity": 62,
       "enrolled": 62,
-      "remaining": -62,
+      "remaining": 0,
       "schedule": "周一、周四 13:30-15:20",
       "note": "FE",
       "watched": true,
@@ -21922,10 +21782,10 @@
           "remaining": -1
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 62,
-          "capacity": 0,
-          "remaining": -62
+          "capacity": 62,
+          "remaining": 0
         }
       ]
     },
@@ -21934,9 +21794,9 @@
       "en": "Corporate Valuation",
       "credits": 3,
       "hours": 36,
-      "capacity": 36,
+      "capacity": 64,
       "enrolled": 28,
-      "remaining": 8,
+      "remaining": 36,
       "schedule": "周二、周五 08:30-10:20",
       "note": "FE",
       "watched": true,
@@ -22638,10 +22498,10 @@
           "remaining": 33
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 28,
-          "capacity": 36,
-          "remaining": 8
+          "capacity": 64,
+          "remaining": 36
         }
       ]
     },
@@ -22650,9 +22510,9 @@
       "en": "Management Information Systems",
       "credits": 3,
       "hours": 36,
-      "capacity": 0,
+      "capacity": 40,
       "enrolled": 40,
-      "remaining": -40,
+      "remaining": 0,
       "schedule": "周一、周四 10:30-12:20",
       "note": "ME",
       "watched": false,
@@ -23234,10 +23094,10 @@
           "remaining": -4
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 40,
-          "capacity": 0,
-          "remaining": -40
+          "capacity": 40,
+          "remaining": 0
         }
       ]
     },
@@ -23246,9 +23106,9 @@
       "en": "Consumer Behavior",
       "credits": 3,
       "hours": 36,
-      "capacity": 0,
+      "capacity": 43,
       "enrolled": 43,
-      "remaining": -43,
+      "remaining": 0,
       "schedule": "周二、周五 13:30-15:20",
       "note": "ME",
       "watched": true,
@@ -23950,10 +23810,10 @@
           "remaining": -7
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 43,
-          "capacity": 0,
-          "remaining": -43
+          "capacity": 43,
+          "remaining": 0
         }
       ]
     },
@@ -23962,9 +23822,9 @@
       "en": "Financial Statement Analysis",
       "credits": 3,
       "hours": 36,
-      "capacity": 1,
+      "capacity": 35,
       "enrolled": 34,
-      "remaining": -33,
+      "remaining": 1,
       "schedule": "周一、周四 10:30-12:20",
       "note": "ME",
       "watched": false,
@@ -24666,10 +24526,10 @@
           "remaining": 0
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 34,
-          "capacity": 1,
-          "remaining": -33
+          "capacity": 35,
+          "remaining": 1
         }
       ]
     },
@@ -24678,9 +24538,9 @@
       "en": "Social Networks, Markets, and Development",
       "credits": 3,
       "hours": 36,
-      "capacity": 8,
+      "capacity": 46,
       "enrolled": 38,
-      "remaining": -30,
+      "remaining": 8,
       "schedule": "周二、周五 10:30-12:20",
       "note": "JE",
       "watched": false,
@@ -25382,10 +25242,10 @@
           "remaining": 2
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 38,
-          "capacity": 8,
-          "remaining": -30
+          "capacity": 46,
+          "remaining": 8
         }
       ]
     },
@@ -25394,9 +25254,9 @@
       "en": "Health Communication: From Research to Practice",
       "credits": 3,
       "hours": 36,
-      "capacity": 10,
+      "capacity": 43,
       "enrolled": 33,
-      "remaining": -23,
+      "remaining": 10,
       "schedule": "周一、周四 10:30-12:20",
       "note": "JE",
       "watched": false,
@@ -26098,10 +25958,10 @@
           "remaining": 8
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 33,
-          "capacity": 10,
-          "remaining": -23
+          "capacity": 43,
+          "remaining": 10
         }
       ]
     },
@@ -26110,9 +25970,9 @@
       "en": "Research on Public Opinion",
       "credits": 3,
       "hours": 36,
-      "capacity": 8,
+      "capacity": 43,
       "enrolled": 35,
-      "remaining": -27,
+      "remaining": 8,
       "schedule": "周二、周五 15:30-17:20",
       "note": "JE&UG",
       "watched": false,
@@ -26814,10 +26674,10 @@
           "remaining": 6
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 35,
-          "capacity": 8,
-          "remaining": -27
+          "capacity": 43,
+          "remaining": 8
         }
       ]
     }
@@ -26828,9 +26688,9 @@
       "en": "Corporate Governance",
       "credits": 3,
       "hours": 36,
-      "capacity": 17,
+      "capacity": 72,
       "enrolled": 55,
-      "remaining": -38,
+      "remaining": 17,
       "schedule": "周二、周五 08:30-10:20",
       "note": "FE",
       "watched": true,
@@ -27532,10 +27392,10 @@
           "remaining": 7
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 55,
-          "capacity": 17,
-          "remaining": -38
+          "capacity": 72,
+          "remaining": 17
         }
       ]
     },
@@ -27544,9 +27404,9 @@
       "en": "Corporate Valuation",
       "credits": 3,
       "hours": 36,
-      "capacity": 36,
+      "capacity": 64,
       "enrolled": 28,
-      "remaining": 8,
+      "remaining": 36,
       "schedule": "周二、周五 08:30-10:20",
       "note": "FE",
       "watched": true,
@@ -28248,10 +28108,10 @@
           "remaining": 33
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 28,
-          "capacity": 36,
-          "remaining": 8
+          "capacity": 64,
+          "remaining": 36
         }
       ]
     },
@@ -28260,9 +28120,9 @@
       "en": "Game Theory",
       "credits": 3,
       "hours": 36,
-      "capacity": 0,
+      "capacity": 63,
       "enrolled": 63,
-      "remaining": -63,
+      "remaining": 0,
       "schedule": "周二、周五 10:30-12:20",
       "note": "EE&ME&FE",
       "watched": true,
@@ -28964,10 +28824,10 @@
           "remaining": -4
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 63,
-          "capacity": 0,
-          "remaining": -63
+          "capacity": 63,
+          "remaining": 0
         }
       ]
     },
@@ -28976,9 +28836,9 @@
       "en": "Applied Econometrics",
       "credits": 3,
       "hours": 36,
-      "capacity": 0,
+      "capacity": 66,
       "enrolled": 66,
-      "remaining": -66,
+      "remaining": 0,
       "schedule": "周二、周五 13:30-15:20",
       "note": "EE/FE",
       "watched": true,
@@ -29680,10 +29540,10 @@
           "remaining": -5
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 66,
-          "capacity": 0,
-          "remaining": -66
+          "capacity": 66,
+          "remaining": 0
         }
       ]
     },
@@ -29692,9 +29552,9 @@
       "en": "Research Methodology (session E)",
       "credits": 1.5,
       "hours": 18,
-      "capacity": 0,
+      "capacity": 29,
       "enrolled": 29,
-      "remaining": -29,
+      "remaining": 0,
       "schedule": "周二 15:30-17:20",
       "note": "25GR",
       "watched": true,
@@ -30396,10 +30256,10 @@
           "remaining": -3
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 29,
-          "capacity": 0,
-          "remaining": -29
+          "capacity": 29,
+          "remaining": 0
         }
       ]
     },
@@ -30408,9 +30268,9 @@
       "en": "Business Ethics (session 1)",
       "credits": 1.5,
       "hours": 18,
-      "capacity": 1,
-      "enrolled": 68,
-      "remaining": -67,
+      "capacity": 70,
+      "enrolled": 69,
+      "remaining": 1,
       "schedule": "周二 15:30-17:20",
       "note": "25GR",
       "watched": true,
@@ -31112,10 +30972,10 @@
           "remaining": -15
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
-          "enrolled": 68,
-          "capacity": 1,
-          "remaining": -67
+          "t": "2026-09-02T16:58:57+08:00",
+          "enrolled": 69,
+          "capacity": 70,
+          "remaining": 1
         }
       ]
     },
@@ -31124,9 +30984,9 @@
       "en": "Psychometrics Method in Management",
       "credits": 3,
       "hours": 36,
-      "capacity": 13,
+      "capacity": 79,
       "enrolled": 66,
-      "remaining": -53,
+      "remaining": 13,
       "schedule": "周二、周五 10:30-12:20",
       "note": "EE&ME&FE",
       "watched": true,
@@ -31828,10 +31688,10 @@
           "remaining": -4
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 66,
-          "capacity": 13,
-          "remaining": -53
+          "capacity": 79,
+          "remaining": 13
         }
       ]
     },
@@ -31840,9 +31700,9 @@
       "en": "Business Ethics (session 2)",
       "credits": 1.5,
       "hours": 18,
-      "capacity": 0,
+      "capacity": 68,
       "enrolled": 68,
-      "remaining": -68,
+      "remaining": 0,
       "schedule": "周四 13:30-15:20",
       "note": "25GR",
       "watched": true,
@@ -32544,10 +32404,10 @@
           "remaining": -15
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 68,
-          "capacity": 0,
-          "remaining": -68
+          "capacity": 68,
+          "remaining": 0
         }
       ]
     },
@@ -32556,9 +32416,9 @@
       "en": "Consumer Behavior",
       "credits": 3,
       "hours": 36,
-      "capacity": 0,
+      "capacity": 43,
       "enrolled": 43,
-      "remaining": -43,
+      "remaining": 0,
       "schedule": "周二、周五 13:30-15:20",
       "note": "ME",
       "watched": true,
@@ -33260,10 +33120,10 @@
           "remaining": -7
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 43,
-          "capacity": 0,
-          "remaining": -43
+          "capacity": 43,
+          "remaining": 0
         }
       ]
     },
@@ -33272,9 +33132,9 @@
       "en": "ESG Finance",
       "credits": 3,
       "hours": 36,
-      "capacity": 0,
+      "capacity": 62,
       "enrolled": 62,
-      "remaining": -62,
+      "remaining": 0,
       "schedule": "周一、周四 10:30-12:20",
       "note": "FE",
       "watched": true,
@@ -33976,10 +33836,10 @@
           "remaining": -2
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 62,
-          "capacity": 0,
-          "remaining": -62
+          "capacity": 62,
+          "remaining": 0
         }
       ]
     },
@@ -33988,9 +33848,9 @@
       "en": "Venture Capital",
       "credits": 3,
       "hours": 36,
-      "capacity": 0,
+      "capacity": 62,
       "enrolled": 62,
-      "remaining": -62,
+      "remaining": 0,
       "schedule": "周一、周四 13:30-15:20",
       "note": "FE",
       "watched": true,
@@ -34692,10 +34552,10 @@
           "remaining": -1
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 62,
-          "capacity": 0,
-          "remaining": -62
+          "capacity": 62,
+          "remaining": 0
         }
       ]
     },
@@ -34704,9 +34564,9 @@
       "en": "Alternative Investments",
       "credits": 3,
       "hours": 36,
-      "capacity": 0,
+      "capacity": 69,
       "enrolled": 69,
-      "remaining": -69,
+      "remaining": 0,
       "schedule": "周一、周四 08:30-10:20",
       "note": "FE",
       "watched": true,
@@ -35408,10 +35268,10 @@
           "remaining": -6
         },
         {
-          "t": "2026-09-02T16:56:54+08:00",
+          "t": "2026-09-02T16:58:57+08:00",
           "enrolled": 69,
-          "capacity": 0,
-          "remaining": -69
+          "capacity": 69,
+          "remaining": 0
         }
       ]
     }
