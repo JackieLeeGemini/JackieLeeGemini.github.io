@@ -118,6 +118,8 @@ function drawChart(id, course, color) {
   const labels = chartLabels(history);
   const enrolled = history.map((h) => h.enrolled);
   const cap = history.map((h) => h.capacity);
+  const last = Math.max(0, enrolled.length - 1);
+  const lastOnly = enrolled.map((_, i) => (i === last ? 4 : 0));
   new Chart(canvas, {
     type: "line",
     data: {
@@ -129,7 +131,9 @@ function drawChart(id, course, color) {
           borderColor: color,
           backgroundColor: color + "33",
           tension: 0.25,
-          pointRadius: history.length > 8 ? 2 : 3,
+          pointRadius: lastOnly,
+          pointHoverRadius: lastOnly.map((r) => (r ? 6 : 0)),
+          pointHitRadius: 10,
           pointBackgroundColor: "#fff",
           pointBorderColor: color,
           borderWidth: 3,
