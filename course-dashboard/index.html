@@ -7,7 +7,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;800;900&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="./styles.css?v=1.0.2" />
+  <link rel="stylesheet" href="./styles.css?v=1.0.3" />
 </head>
 <body>
   <div class="blob blob-a"></div>
@@ -17,32 +17,25 @@
       <div>
         <div class="kicker">PHBS · 26-27 Fall I</div>
         <h1>选课容量看板</h1>
-        <p class="sub">本轮 37 门课的已选人数和名额上限。灰虚线是预选结束、补退选开始的分界，会跟着那一次快照往左移。本地只读采集，不改选课。</p>
       </div>
-      <div class="stamp" id="stamp"><b>—</b><span>等待快照</span></div>
+      <div class="stamp-row">
+        <img class="stamp-cat" src="./assets/phbs-cat.png" alt="PHBS把我害惨了" />
+        <div class="stamp" id="stamp"><b>—</b><span>等待快照</span></div>
+      </div>
     </header>
     <div class="status" id="status"></div>
     <section class="kpis" id="kpis"></section>
-    <section class="grid" id="grid"></section>
-    <section class="table-card">
-      <table>
-        <thead>
-          <tr>
-            <th>课程</th>
-            <th>已选</th>
-            <th>名额</th>
-            <th>剩余</th>
-            <th>占用</th>
-            <th>时间</th>
-            <th>备注</th>
-          </tr>
-        </thead>
-        <tbody id="tbody"></tbody>
-      </table>
+    <section class="toolbar">
+      <label class="search">
+        <span class="search-icon" aria-hidden="true"></span>
+        <input id="search" type="search" placeholder="搜索课程、英文名、方向或备注，回车定位…" autocomplete="off" />
+      </label>
     </section>
+    <section class="picks" id="picks" aria-label="自选区"></section>
+    <section class="grid" id="grid"></section>
     <footer>数据来自北大汇丰硕博选课系统公开可见的已选人数，仅供个人选课参考，不是学院官方结果。</footer>
   </main>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
-  <script src="./app.js?v=1.0.2"></script>
+  <script src="./app.js?v=1.0.3"></script>
 </body>
 </html>

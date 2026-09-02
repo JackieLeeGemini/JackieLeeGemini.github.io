@@ -69,7 +69,18 @@ h1 {
   font-size: clamp(28px, 4vw, 42px);
   line-height: 1.1;
 }
-.sub { margin: 0; color: var(--muted); font-size: 15px; }
+.stamp-row {
+  display: flex;
+  align-items: flex-end;
+  gap: 12px;
+}
+.stamp-cat {
+  width: 88px;
+  height: 88px;
+  object-fit: contain;
+  flex: 0 0 auto;
+  filter: drop-shadow(0 8px 18px rgba(59, 32, 72, 0.16));
+}
 .stamp {
   text-align: right;
   background: var(--card);
@@ -81,6 +92,120 @@ h1 {
 }
 .stamp b { display: block; font-size: 18px; }
 .stamp span { color: var(--muted); font-size: 12px; }
+
+.toolbar {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 0 14px;
+}
+.search {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.search-icon {
+  position: absolute;
+  left: 12px;
+  width: 14px;
+  height: 14px;
+  border: 1.7px solid #b9a3c6;
+  border-radius: 99px;
+}
+.search-icon::after {
+  content: "";
+  position: absolute;
+  width: 6px;
+  height: 1.7px;
+  background: #b9a3c6;
+  right: -5px;
+  bottom: -1px;
+  transform: rotate(45deg);
+  border-radius: 2px;
+}
+.search input {
+  width: min(420px, 86vw);
+  height: 40px;
+  border: 1px solid var(--line);
+  background: var(--card);
+  border-radius: 999px;
+  padding: 0 16px 0 34px;
+  font: inherit;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--ink);
+  outline: none;
+  box-shadow: var(--shadow);
+}
+.search input:focus { border-color: #c4b5fd; box-shadow: 0 0 0 4px rgba(155, 109, 255, 0.12); }
+
+.picks {
+  margin: 0 0 16px;
+  padding: 14px;
+  border: 1.5px dashed #c5b7d4;
+  border-radius: 24px;
+  background: rgba(255, 255, 255, 0.45);
+}
+.picks-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 12px;
+}
+.picks-head h2 { margin: 0; font-size: 15px; }
+.picks-head p { margin: 2px 0 0; color: var(--muted); font-size: 12px; font-weight: 700; }
+.picks-add {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+.picks-add input {
+  height: 34px;
+  border: 1px solid var(--line);
+  background: #fff;
+  border-radius: 999px;
+  padding: 0 12px;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  min-width: 180px;
+}
+.picks-add button, .pick-btn {
+  appearance: none;
+  border: 1px solid var(--line);
+  background: #fff;
+  color: var(--ink);
+  font: inherit;
+  cursor: pointer;
+}
+.picks-add button {
+  height: 34px;
+  padding: 0 12px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 800;
+}
+.picks .grid { margin: 0; }
+.picks-empty {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+  padding: 8px 2px 4px;
+}
+
+.pick-btn {
+  width: 28px;
+  height: 28px;
+  border-radius: 999px;
+  font-size: 18px;
+  line-height: 1;
+  font-weight: 800;
+  flex: 0 0 auto;
+}
+.pick-btn:hover { border-color: #9b6dff; color: #7c3aed; }
+.pick-btn.on { background: #3b2048; color: #fff; border-color: #3b2048; }
+.card.flash { box-shadow: 0 0 0 3px rgba(155, 109, 255, 0.45), var(--shadow); }
 
 .kpis {
   display: grid;
@@ -132,26 +257,6 @@ h1 {
 .num { font-weight: 900; font-size: 22px; color: var(--ink); }
 .chart { height: 150px; }
 
-.table-card {
-  margin-top: 18px;
-  background: var(--card);
-  border: 1px solid var(--line);
-  border-radius: 24px;
-  box-shadow: var(--shadow);
-  overflow: auto;
-}
-table { width: 100%; border-collapse: collapse; font-size: 13px; }
-th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid var(--line); white-space: nowrap; }
-th { color: var(--muted); font-size: 11px; letter-spacing: 0.04em; }
-.bar {
-  width: 120px;
-  height: 10px;
-  border-radius: 999px;
-  background: #f3e8ff;
-  overflow: hidden;
-}
-.bar > span { display: block; height: 100%; border-radius: 999px; }
-
 .status {
   margin: 16px 0;
   padding: 12px 14px;
@@ -168,6 +273,8 @@ footer { margin-top: 22px; color: var(--muted); font-size: 12px; }
   .kpis, .grid { grid-template-columns: 1fr 1fr; }
   .hero { flex-direction: column; align-items: stretch; }
   .stamp { text-align: left; }
+  .toolbar { justify-content: stretch; }
+  .search input { width: 100%; }
 }
 @media (max-width: 640px) {
   .kpis, .grid { grid-template-columns: 1fr; }
